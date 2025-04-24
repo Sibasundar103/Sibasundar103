@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React, JavaScript,MongoDB..**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sibasundar103](https://github.com/Sibasundar103)
 
