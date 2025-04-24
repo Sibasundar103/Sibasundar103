@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sibasundar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **React, JavaScript, NodeJS, MongoDB..**
+- 🔭 I’m currently working on **React, JavaScript,MongoDB..**
 
-- 🌱 I’m currently learning **Nextjs & DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sibasundar103](https://github.com/Sibasundar103)
 
