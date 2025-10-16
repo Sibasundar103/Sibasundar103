@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hey there! <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="30px" height="30px"> I'm Sibasundar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+
 
 - 🔭 I’m currently working on **React, JavaScript,MongoDB..**
 
